@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**Cking197/Cking197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Connor King
+## Welcome to my GitHub Profile!
+## I'm a student at Northwestern Studying Computer Science
 
-Here are some ideas to get you started:
+### Some of my Projects:
+* 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I know:
+*
+
+### Technologies I'm Learning:
+* 
+
+### Technologies I Want to Learn:
+* 
+
+### Misc.
+* 
+
+### How to Reach Me
+* Email: 
+* Website: 
+
