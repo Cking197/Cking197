@@ -3,22 +3,12 @@
 ## Welcome to my GitHub Profile!
 ## I'm a student at Northwestern Studying Computer Science
 
-### Some of my Projects:
+### Projects:
 * 
 
-### Technologies I know:
+### Technological Skills:
 *
 
-### Technologies I'm Learning:
-* 
-
-### Technologies I Want to Learn:
-* 
-
-### Misc.
-* 
-
 ### How to Reach Me
-* Email: 
-* Website: 
+* Email: <connorking59000@gmail.com>
 
