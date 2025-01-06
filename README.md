@@ -22,7 +22,7 @@
 * [CE-452 Software Engineering (Rutgers)](https://github.com/Cking197/CE-452-HW)
 * [COMP_SCI-211 Fundamentals of Computer Science II (Northwestern)](https://github.com/Cking197/COMP_SCI-211-Work)
 * [CS-112 Data Structures (Rutgers)](https://github.com/Cking197/CS-112-Assignments)
-* [CS-111 Introduction to Computer Science(Rutgers)](https://github.com/Cking197/CS_111_Assignments)
+* [CS-111 Introduction to Computer Science (Rutgers)](https://github.com/Cking197/CS_111_Assignments)
 * [COMP_SCI-111 Fundamentals of Computer Science I (Northwestern)](https://github.com/Cking197/COMP_SCI-111-Work)
 
 ### How to Reach Me
