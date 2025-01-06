@@ -1,7 +1,7 @@
 
 # Connor King
 ## Welcome to my GitHub Profile!
-## I'm a student at Northwestern Studying Computer Science
+## I'm a student at Northwestern studying Computer Science
 
 ### Technological Skills:
 * Python
