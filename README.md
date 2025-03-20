@@ -18,6 +18,7 @@
 * [Software Engineering Project](https://github.com/hransom528/ECE452-SoftEng-Project)
 
 ### Classwork Collections:
+* [COMP_SCI-336 Design and Analysis of Algorithms (Northwestern)](https://github.com/Cking197/Comp_SCI-336)
 * [COMP_SCI-349 Machine Learning (Northwestern)](https://github.com/Cking197/COMP_SCI-349-Homework)
 * [CE-452 Software Engineering (Rutgers)](https://github.com/Cking197/CE-452-HW)
 * [COMP_SCI-211 Fundamentals of Computer Science II (Northwestern)](https://github.com/Cking197/COMP_SCI-211-Work)
