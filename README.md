@@ -16,7 +16,7 @@
 ### Projects:
 * [Machine Learning Final Project](https://github.com/Cking197/COMP_SCI-349-FinalProject)
 * [Software Engineering Project](https://github.com/hransom528/ECE452-SoftEng-Project)
-
+* [VideObit](https://github.com/Cking197/VideObit)
 ### Classwork Collections:
 * [COMP_SCI-336 Design and Analysis of Algorithms (Northwestern)](https://github.com/Cking197/Comp_SCI-336)
 * [COMP_SCI-349 Machine Learning (Northwestern)](https://github.com/Cking197/COMP_SCI-349-Homework)
