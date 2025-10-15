@@ -1,7 +1,7 @@
 
 # Connor King
 ## Welcome to my GitHub Profile!
-Check out my [github.io page](cking197.github.io)
+Check out my [github.io page](https://cking197.github.io/)
 ## I'm a student at Northwestern studying Computer Science
 
 ### Technological Skills:
