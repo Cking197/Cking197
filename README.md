@@ -2,7 +2,7 @@
 # Connor King
 ## Welcome to my GitHub Profile!
 Check out my [github.io page](https://cking197.github.io/)
-## I'm a student at Northwestern studying Computer Science
+## I'm a Software Developer @IBM
 
 ### Technological Skills:
 * Python
@@ -14,7 +14,7 @@ Check out my [github.io page](https://cking197.github.io/)
 * Unity
 * Git/GitHub/VCS
 
-### Projects:
+### Personal Projects:
 * [VideObit](https://github.com/Cking197/VideObit)
 * [Machine Learning Final Project](https://github.com/Cking197/COMP_SCI-349-FinalProject)
 * [Software Engineering Project](https://github.com/hransom528/ECE452-SoftEng-Project)
