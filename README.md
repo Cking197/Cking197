@@ -12,6 +12,7 @@ Check out my [github.io page](https://cking197.github.io/)
 * Javascript/TypeScript
 * React
 * Unity
+* Go
 * Git/GitHub/VCS
 
 ### Personal Projects:
